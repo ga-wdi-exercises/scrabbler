@@ -6,7 +6,7 @@
 
 ###Prompt
 
-* Work in the `lib/scrabble.rb file`
+* Work in the `lib/scrabble_word.rb file`
 
 * If you've never played the game Scrabble before, you may want to ask your neighbor about the rules of the game and how words are scored.
 

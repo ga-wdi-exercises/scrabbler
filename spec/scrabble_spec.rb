@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../lib/scrabble'
+require_relative '../lib/scrabble_word'
 
 describe ScrabbleWord do
   describe "#score" do
