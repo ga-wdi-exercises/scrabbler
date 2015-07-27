@@ -1,8 +1,10 @@
 # Scrabble
 
-### Installing Rspec
+## Setup.
 
-* To install RSpec, type `gem install rspec` into your terminal. Once it is done installing, don't worry about doing anything with it now. We'll come back to it after you've written some code.
+1. Fork and clone (remmeber to clone YOUR fork).
+2. Run `bundle install`.
+3. Run `rspec` to see what code answers our specs.  You will find that to be...  not much. :)
 
 ###Prompt
 
@@ -29,10 +31,14 @@ Here are the letter values. Think about how you might put this data in a usable 
   z : 10
 ```
 
-###RSpec
+### RSpec
 
 * Run RSpec to test your code. To run it, type `rspec` into your terminal in the current directory (the one where you can see the `lib` and `spec` folders)
 * Fix any errors that come up. Once you are seeing all green text, try to refactor your methods to make them clearer / more concise. Re-run rspec to make sure your code still works.
+
+## Deliverable
+
+Submit a pull request with your current progress.  Include your Completeness (1-5) and Comfort (1-5).  We recommend you include your pseudo code, comments, and descriptions of areas where you add difficulty.
 
 #### Bonus
 
