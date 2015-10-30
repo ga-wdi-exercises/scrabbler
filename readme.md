@@ -2,7 +2,7 @@
 
 ## Setup.
 
-1. Fork and clone (remmeber to clone YOUR fork).
+1. Fork and clone (remember to clone YOUR fork).
 2. Run `bundle install`.
 3. Run `rspec` to see what code answers our specs.  You will find that to be...  not much. :)
 
